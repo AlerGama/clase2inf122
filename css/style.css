@@ -1,0 +1,33 @@
+*
+{
+    font-family: Georgia;
+    margin: 30px;
+}
+body
+{
+    background-color: #0B665D;
+}
+h1
+{
+    border: 10px;
+    border-style: dashed;
+    border-color: #81B859;
+    color: #EB450A;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p
+{
+    background-color: #0B416C;
+    border-radius: 20px;
+    border: 5px;
+    border-color: #CF17C4;
+    border-style: solid;
+    color: #0AEBD5;
+    text-align: justify;
+}
+img
+{
+    width: 47%;
+}
